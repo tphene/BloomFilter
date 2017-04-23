@@ -2,7 +2,7 @@
 //To run the code:
 //add the gcc 3.4.6 compiler using:
 //add gcc 346
-//then: g++ tphene_samunot.cpp
+//then: g++ tphene.cpp
 //then: ./a.out
 //Hash function MurmurHash2 by Austin Appleby
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
